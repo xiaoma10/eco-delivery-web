@@ -1,0 +1,41 @@
+.main-background {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  background-color: #EAEBEA;
+}
+
+.register-container {
+  display: inline-block;
+  height: 660px;
+  width: 580px;
+  background-color: white;
+  padding: 0px 65px;
+  margin-top: 56px;
+  border-radius: 0.5%;
+}
+.register-title {
+  font-size: var(--fontsize-heading);
+  font-weight: var(--fontweight-heading);
+  margin-top: 45px;
+  margin-bottom: 24px;
+}
+
+.login-container {
+  display: inline-block;
+  height: 392px;
+  width: 580px;
+  background-color: white;
+  padding: 0px 65px;
+  margin-top: 56px;
+}
+
+.login-title {
+  font-size: var(--fontsize-heading);
+  font-weight: var(--fontweight-heading);
+  margin-top: 45px;
+  margin-bottom: 25px;
+  border-radius: 0.5%;
+}

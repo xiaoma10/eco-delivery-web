@@ -1,0 +1,55 @@
+.card{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 400px;
+  margin: auto;
+  width: 400px;
+  border-radius: 0.1%;
+}
+
+#thank-you {
+  height: 100%;
+  background: #EAEBEA;
+  padding: 40px 70px;
+}
+
+.thank-you-title-container {
+  margin-top: 38px;
+  margin-bottom: 40px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.checkmark {
+  display: block;
+  height: 100px;
+  width: 100px;
+  fill: #4f4f4f;
+}
+
+.thank-you-title {
+  display: block;
+}
+
+.thank-you-title h1 {
+  font-size: 26px;
+}
+
+.button1,
+.button2 {
+  color: #4f4f4f;
+  text-align: center;
+  display: block;
+  padding: 6px 0;
+  margin-top: 26px;
+  height: 36px;
+  width: 180px;
+  border: 1px solid #4f4f4f;
+}
+
+.button1:hover,
+.button2:hover {
+  cursor: pointer;
+}

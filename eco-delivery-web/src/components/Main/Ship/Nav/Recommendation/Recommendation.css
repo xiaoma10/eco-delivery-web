@@ -1,0 +1,8 @@
+.rec-cards-container {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.rec-continue {
+  margin-right: 14px;
+}

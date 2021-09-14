@@ -1,0 +1,13 @@
+@import './components/Main/Ship/Nav/Nav.css';
+
+body {
+  /* margin: 0; */
+  color: #4f4f4f;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

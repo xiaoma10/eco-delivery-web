@@ -1,0 +1,30 @@
+.method-card{
+  border: solid 1px #dddddd;
+  border-radius: 2%;
+  height: 216px;
+  width: 170px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  pointer-events: all;
+  margin-right: 28px;
+  margin-bottom: 41px;
+  transition: all 0.3s;
+}
+
+.method-card:hover{
+  cursor: pointer;
+  background-color: #c7dfd4;
+  /* border: solid 1px #bdddce; */
+  border: solid 1px #c7dfd4;
+}
+
+.method-card-big-font {
+  font-size: 16px;
+}
+
+.method-card-icon {
+  font-size: 24px;
+}
