@@ -8,7 +8,9 @@ Users will be directed to enter necessary information to get started with a quot
 
 ## Watch Demo
 
-<video src="/Users/yilinma/Desktop/My Movie.mp4"></video>
+[![ECO Delivery App](https://img.youtube.com/vi/bgY5n3AageE/0.jpg)](https://www.youtube.com/watch?v=bgY5n3AageE)
+
+
 
 ## Technologies Used
 
