@@ -8,7 +8,7 @@ Users will be directed to enter necessary information to get started with a quot
 
 ## Watch Demo
 
-<video src="/Users/yilinma/Desktop/Screen Recording 2021-09-24 at 12.57.10 AM.mov"></video>
+<video src="/Users/yilinma/Desktop/My Movie.mp4"></video>
 
 ## Technologies Used
 
